@@ -45,25 +45,25 @@ Outside of code, I'm into cats 🐱, **watercolor painting** 🎨, **video games
 
 ## 🎯 Featured Projects
 
-### 🚀 [PHOBOS](https://github.com/oodadoudou/phobos)
+### 🚀 [PHOBOS]| [🎮 Play Demo](https://phobos.nejlika.org/)
 **Psychological Space Survival Game**
 - 🎮 Card-based gameplay with custom pixel art
 - 🎨 Atmospheric horror theme with immersive storytelling
 - 🛠️ Built with modern game development tools
 
-### 📚 [AetherFolio Web EPUB Editor](https://github.com/oodadoudou/aetherfolio)
+### 📚 [AetherFolio Web EPUB Editor](https://github.com/oodadoudou/AetherFolio-web-Epub-editor)
 **Modern Web-Based EPUB/TXT Editor**
 - 📖 Real-time EPUB and TXT editing capabilities
 - 🎨 Clean, intuitive user interface
 - 🔧 Advanced text processing features
 
-### ⚡ [ContentForge](https://github.com/oodadoudou/contentforge)
+### ⚡ [ContentForge](https://github.com/oodadoudou/ContentForge)
 **Multi-Platform File Modification Tool**
 - 🔄 Cross-platform file processing
 - 🛠️ Batch operations and automation
 - 📁 Efficient content management
 
-### 📄 Document Processing Tool
+### 📄 [Document Processing Tool](https://github.com/oodadoudou/document-processing-tool)
 **Windows-Based File Organization System**
 - 🗂️ Advanced file organization capabilities
 - 🔍 Smart categorization and search
