@@ -12,6 +12,6 @@ Hey, I'm Jane! I'm a software engineer with four years of experience in backend 
 
 💬 Ask me about... Python, Java, Spring Boot, CI/CD, and building automation frameworks.
 
-📫 How to reach me: ... My LinkedIn
+📫 How to reach me: ... [My LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/jushuanghui-li-0ab853348 "null")
 
 ⚡ Fun fact: ... I love building tools that make life way more efficient... and I've taught kids Lego programming!
