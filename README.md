@@ -72,9 +72,7 @@ Outside of code, I'm into cats 🐱, **watercolor painting** 🎨, **video games
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=oodadoudou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-  
+    
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oodadoudou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oodadoudou&theme=tokyonight&hide_border=true&background=0D1117)
