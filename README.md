@@ -40,6 +40,4 @@ MSc student in High-Performance Computer Systems at Chalmers.
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oodadoudou&layout=compact&hide_border=true)
-
 </div>
