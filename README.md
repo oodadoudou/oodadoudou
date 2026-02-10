@@ -19,6 +19,11 @@ MSc student in High-Performance Computer Systems at Chalmers.
 - Prefer practical, privacy-first, offline-capable designs when it makes sense
 - Enjoy shipping small products end-to-end
 
+## A bit about me
+- 🎨 Watercolor + pixel art
+- 🎮 Souls like + Narrative games
+- 📚 Manga and novels
+
 ## Featured projects
 - **ZenithAI Reader / PaperRead** — privacy-first EPUB/TXT/PDF reader with optional offline/online TTS  
   Stack: JavaScript, Python, FastAPI, Docker
@@ -31,11 +36,6 @@ MSc student in High-Performance Computer Systems at Chalmers.
 
 - **AI Translate Extension** — Chrome MV3 extension with streaming translation + stable Shadow DOM overlay UI  
   Stack: JavaScript, SSE
-
-## A bit about me
-- 🎨 Watercolor + pixel art
-- 🎮 Narrative games
-- 📚 Manga and novels
 
 ## Connect
 - Email: jushuanghui.li@outlook.com
