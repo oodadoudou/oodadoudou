@@ -12,7 +12,6 @@ MSc student in High-Performance Computer Systems at Chalmers.
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-
 ## What I do
 - Build backend services, automation tools, and developer-friendly workflows
 - Prefer practical, privacy-first, offline-capable designs when it makes sense
@@ -22,19 +21,6 @@ MSc student in High-Performance Computer Systems at Chalmers.
 - 🎨 Watercolor + pixel art
 - 🎮 Souls like + Narrative games
 - 📚 Manga and novels
-
-## Featured projects
-- **ZenithAI Reader / PaperRead** — privacy-first EPUB/TXT/PDF reader with optional offline/online TTS  
-  Stack: JavaScript, Python, FastAPI, Docker
-
-- **Korean Glossary AI Review Tool** — desktop app to batch-review glossary spreadsheets with OpenAI-compatible models  
-  Stack: Python, Flask, React, PyWebView
-
-- **AetherFolio** — web-based EPUB/TXT editor with batch processing (100+ files)  
-  Stack: Python, FastAPI, React, Docker
-
-- **AI Translate Extension** — Chrome MV3 extension with streaming translation + stable Shadow DOM overlay UI  
-  Stack: JavaScript, SSE
 
 ## Connect
 - Email: jushuanghui.li@outlook.com
