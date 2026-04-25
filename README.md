@@ -1,33 +1,33 @@
-# Hi, I'm Jushuanghui (Jane) Li 👋
+### Jane Li / dadoudou00
 
-Backend & automation-focused software engineer in Gothenburg, Sweden.  
-MSc student in High-Performance Computer Systems at Chalmers.
+```
+   ▲ ▲ 
+(( ·ᴥ· )) 
+  ) ~ ( 
+  ~ww~
+  ```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+I build tools for the things I actually care about —
+reading novels, translating, not dying at the gym.
 
-## What I do
-- Build backend services, automation tools, and developer-friendly workflows
-- Prefer practical, privacy-first, offline-capable designs when it makes sense
-- Enjoy shipping small products end-to-end
+---
 
-## A bit about me
-- 🎨 Watercolor + pixel art
-- 🎮 Souls like + Narrative games
-- 📚 Manga and novels
+| project | |
+|---|---|
+| [ContentForge-UI](https://github.com/oodadoudou/ContentForge-UI) | ebook & comic processing toolbox — EPUB, TXT, PDF · Python + React |
+| [Korean glossary reviewer](https://github.com/oodadoudou/Korean_glossary_AI_review_UI) | AI audit tool for KR→CN translation term sheets · Python |
+| [ZenithAI Reader](https://github.com/oodadoudou/ZenithAI-Reader) | privacy-first ebook reader, offline TTS · JS + FastAPI |
+| [AI translate extension](https://github.com/oodadoudou/AI-translate-extension) | Chrome inline translator, any OpenAI-compatible API · JS |
+| [document processing tool](https://github.com/oodadoudou/document-processing-tool) | PDF merge / split / compress / convert · Python |
+| [HIIT tracker](https://github.com/oodadoudou/hiit-tracker) | interval timer with intensity modifier · Electron + React |
+| [ebook watermark](https://github.com/oodadoudou/ebook-watermark) | watermarking for ebook files · Python |
+| [my-pet](https://github.com/oodadoudou/my-pet) | ASCII cat & shiba. drag it. poke it. · JS |
 
-## Connect
-- Email: jushuanghui.li@outlook.com
-- GitHub: https://github.com/oodadoudou
-- LinkedIn: https://www.linkedin.com/in/jushuanghui-li-0ab853348/
-- Portfolio: https://janeli.vercel.app
+---
 
-<div align="center">
+`Python` `Java` `C++` `JS` `FastAPI` `Flask` `React` `Kubernetes`
 
-</div>
+watercolor · pixel art · souls-like games · manga
+
+[portfolio](https://janeli.vercel.app) · [email](mailto:jushuanghui.li@outlook.com) · [linkedin](https://www.linkedin.com/in/jushuanghui-li-0ab853348/)
+```
