@@ -14,6 +14,7 @@ reading novels, translating, not dying at the gym.
 
 | project | |
 |---|---|
+| [Transoria](https://github.com/oodadoudou/Transoria) | AI novel translation desktop app — glossary, proofreading, EPUB/TXT · Python + React |
 | [ContentForge-UI](https://github.com/oodadoudou/ContentForge-UI) | ebook & comic processing toolbox — EPUB, TXT, PDF · Python + React |
 | [Korean glossary reviewer](https://github.com/oodadoudou/Korean_glossary_AI_review_UI) | AI audit tool for KR→CN translation term sheets · Python |
 | [ZenithAI Reader](https://github.com/oodadoudou/ZenithAI-Reader) | privacy-first ebook reader, offline TTS · JS + FastAPI |
@@ -30,4 +31,3 @@ reading novels, translating, not dying at the gym.
 watercolor · pixel art · souls-like games · manga
 
 [portfolio](https://janeli.vercel.app) · [email](mailto:jushuanghui.li@outlook.com) 
-
